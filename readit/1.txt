@@ -1,0 +1,9 @@
+ubuntu
+ext=php_sqlsrv_72_nts.so
+/usr/lib/php/cli/...
+
+windows
+xampp/php/php.ini
+ext=sqlsrv_72_nts.dll
+
+copy * xampp/php/ext/
